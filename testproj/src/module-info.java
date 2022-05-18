@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author ganta
- *
- */
-module testproj {
-}
